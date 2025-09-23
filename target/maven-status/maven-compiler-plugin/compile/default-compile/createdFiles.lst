@@ -3,7 +3,9 @@ com\lorenzon\weather_api\exception\BadRequestException.class
 com\lorenzon\weather_api\exception\TooManyRequestsException.class
 com\lorenzon\weather_api\config\RedisCacheConfig.class
 com\lorenzon\weather_api\exception\NotFoundException.class
+com\lorenzon\weather_api\config\WebConfig.class
 com\lorenzon\weather_api\exceptionhandler\ApiExceptionHandler.class
 com\lorenzon\weather_api\controller\WeatherController.class
 com\lorenzon\weather_api\service\WeatherService.class
+com\lorenzon\weather_api\config\RateLimitInterceptor.class
 com\lorenzon\weather_api\WeatherApiApplication.class
