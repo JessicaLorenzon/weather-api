@@ -1,2 +1,9 @@
+C:\Users\Jessi\OneDrive\Documentos\dev\projects\weather-api\src\main\java\com\lorenzon\weather_api\config\RedisCacheConfig.java
+C:\Users\Jessi\OneDrive\Documentos\dev\projects\weather-api\src\main\java\com\lorenzon\weather_api\controller\WeatherController.java
+C:\Users\Jessi\OneDrive\Documentos\dev\projects\weather-api\src\main\java\com\lorenzon\weather_api\exception\BadRequestException.java
+C:\Users\Jessi\OneDrive\Documentos\dev\projects\weather-api\src\main\java\com\lorenzon\weather_api\exception\NotFoundException.java
+C:\Users\Jessi\OneDrive\Documentos\dev\projects\weather-api\src\main\java\com\lorenzon\weather_api\exception\TooManyRequestsException.java
+C:\Users\Jessi\OneDrive\Documentos\dev\projects\weather-api\src\main\java\com\lorenzon\weather_api\exception\UnauthorizedException.java
+C:\Users\Jessi\OneDrive\Documentos\dev\projects\weather-api\src\main\java\com\lorenzon\weather_api\exceptionhandler\ApiExceptionHandler.java
 C:\Users\Jessi\OneDrive\Documentos\dev\projects\weather-api\src\main\java\com\lorenzon\weather_api\service\WeatherService.java
 C:\Users\Jessi\OneDrive\Documentos\dev\projects\weather-api\src\main\java\com\lorenzon\weather_api\WeatherApiApplication.java
